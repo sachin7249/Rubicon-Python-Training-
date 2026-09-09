@@ -1,4 +1,4 @@
-# Python Programming Practice
+# Rubicon Python training
 
 This repository contains practical Python programs covering **basic Python concepts, Object-Oriented Programming, exception handling, file handling, modules, NumPy, Pandas, and SQLite database operations**.
 
