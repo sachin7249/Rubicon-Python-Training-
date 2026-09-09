@@ -98,6 +98,5 @@ The student database project uses SQLite to:
 * SQLite
 * CSV
 
-## Purpose
 
-This repository is designed as a **Python learning and practice project**, demonstrating programming fundamentals and commonly used Python libraries through simple, practical examples.
+
